@@ -1,2 +1,2 @@
 # 017_MakeDB-Blast_Workflow
-Extract single genes from the whole genome.
+从全基因组提取单基因的流程
