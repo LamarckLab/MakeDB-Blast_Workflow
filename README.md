@@ -1,2 +1,2 @@
-# 017_MakeDB-Blast_Workflow
+# MakeDB-Blast_Workflow
 从全基因组提取单基因的流程
